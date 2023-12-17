@@ -1,0 +1,40 @@
+   Questions 
+   
+   Easy Level.
+  
+     
+	1)  Who is the senior employee based on job title ?
+	 
+	2)  Which contries have most invoices ?
+	 
+	3)  What are top 3 values of total invoices ? 
+	 
+	Modrate level
+	 
+	4)  which city has the best customers? We would like to throw a promotional music festival in 
+        the city we made the most money write a query that returns one city that has the highest sum
+        of invoice totals Return both city name and sum of invoices totals 
+	
+	5)  Who is the best customer ? the customer who has spent the most money will be declared 
+        the best customer. Write a query that returns the person who has spent the most money.
+		
+	6)  Write a query to return the email first name ,last name & genre of all rock music listners.Return your list
+        ordered alphabetically by email with A
+		
+	7)  Lets invite the artist who have written the most rock music in our dataset.
+        write a query that the artist name and total track count of the top 10 rock bands 
+		
+	8)  Return all the track names that have a song lenth longer than the average asong length.
+        Return the name and milliseconds for each track.Order by the song length
+	    with the longest song listed first
+		
+	Adavnce Level.	
+		
+	9)  Find how much amount spent by each customer on artist ?
+        Write query to return customer name,artist name and total time spent
+		
+	10) We want to find out the most popular music Genre for  each country.
+	    We determine the most popular genre with the highest amount of 
+	    purchases.Write a query that returns each country along with
+	    the top Genre. For countries where the maximum number of 
+	    purchases is shared return all Genres.
